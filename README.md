@@ -1,4 +1,4 @@
-# DATA 602 : Twitter Sentiment Analysis on Stock Market Prices
+# Effect of Twitter Sentiment Analysis on Stock Market Prices
 
 ## Motivation ##
 Stock price prediction is a complex and challenging task given the large number of factors involved, such as economic circumstances, political events, and others, that may affect the stock prices directly or indirectly. However, studies have shown that the stock markets are affected by the public sentiments considerably. While more people spend time online voicing their opinions, social media platforms have become a primary source of public sentiment mining. Twitter especially, has caught the interest of researchers working on analyzing public opinions and sentiments in the stock market domain, as it is a rich source of real-time information including societal and personal opinions. 
